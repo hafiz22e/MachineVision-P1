@@ -1,8 +1,4 @@
-% Muhammad Hamza Ishaq (Std id: 2643484)
-% Post-Graduate EEE 
-% METU (ODTU) NCC (KKK) via Mersin 10 Turkiye
-% Dr Cem Direkoglu 
-% Assalam o Alaikum
+
 %%%%%%     HW 1 Machion Vision (EEE-584)      
 %%%%%%     Task 4 Gradient (Sobel Operator)
 input=imread('C:\Users\DELL\Downloads\Compressed\Images\Image_1.jpg');
