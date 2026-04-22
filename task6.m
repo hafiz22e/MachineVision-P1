@@ -1,8 +1,4 @@
-% Muhammad Hamza Ishaq (Std id: 2643484)
-% Post-Graduate EEE 
-% METU (ODTU) NCC (KKK) via Mersin 10 Turkiye
-% Dr Cem Direkoglu 
-% Assalam o Alaikum
+
 %%%%%%     HW 1 Machion Vision (EEE-584)      
 %%%%%%     Task 6 Compute binary single pixel edge
 input=imread('C:\Users\DELL\Downloads\Compressed\Images\Image_2.jpg');
