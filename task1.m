@@ -1,5 +1,5 @@
 
-%%%%%%     HW 1 Machion Vision (EEE-584)      
+%%%%%%     HW 1 Machion Vision      
 %%%%%%     Task 1 Grey Scale Conversion
 input=imread('C:\Users\DELL\Downloads\Compressed\Images\Image_1.jpg'); %read image from directory
 figure(1)
